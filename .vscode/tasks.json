@@ -20,3 +20,5 @@
     },
     "args": ["${file}"]
 }
+
+"git.autofetch": true
